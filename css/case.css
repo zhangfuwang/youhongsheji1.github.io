@@ -1,0 +1,128 @@
+.banner {
+	margin-top: 80px;
+}
+
+.banner-left {
+	width: 82.2%;
+	padding: 0 190px;
+	float: left;
+}
+
+.banner-right {
+	width: 15.7%;
+	float: right;
+	margin-right: 35px;
+}
+
+.swiper-container {
+	width: 100%;
+}
+
+.swiper-container .swiper-wrapper {
+	width: 100%;
+}
+
+.swiper-container .swiper-wrapper img {
+	width: 100%;
+}
+
+.swiper-slide {
+	width: 100%!important;
+}
+
+@media only screen and (min-width:1170px) {
+	.swiper-wrapper img {}
+}
+
+
+/* .classical{
+	width: 80%;
+	margin: 0 auto;
+}
+.classical div{
+	border: 1px solid #333333;
+	border-radius:20% ;
+	width: 30px;
+}
+ */
+
+.mt20 {
+	margin-top: 20px;
+}
+
+.zhong-logo {
+	text-align: left;
+}
+
+.designer-info {
+	font-size: 12px;
+}
+
+.designer {
+	border-top: 1px solid #eee;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+
+.designer .im {
+	margin: 10px 0;
+}
+
+.famous {
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	padding: 10px;
+}
+
+.love {
+	padding: 10px;
+}
+
+.love span {
+	margin-left: 20px;
+}
+
+.love img:hover {
+	opacity: .8;
+}
+
+.right-bar {
+	text-align: left;
+}
+
+
+.classical {
+	margin-top: 30px;
+}
+
+#cases .col-sm-4 {
+	text-align: center;
+}
+
+.box {
+	border: 1px solid #ddd;
+}
+
+.box:hover {
+	-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .175);
+	box-shadow: 0 3px 8px rgba(0, 0, 0, .175);
+}
+
+a.ico img {
+	width: 15%;
+}
+
+a.ico img {
+	border-radius: 50%;
+}
+
+.container {
+	margin-top: 30px;
+}
+
+.container h5 {
+	margin-bottom: 20px;
+}
+.box img{
+	margin-bottom: 10px;
+}
